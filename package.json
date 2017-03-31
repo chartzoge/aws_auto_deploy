@@ -1,0 +1,15 @@
+{
+  "name": "aws_auto_deploy",
+  "version": "1.0.0",
+  "description": "Grabs the lastest CodeDeploy revision and kicks off a deployment to a specified CodeDeploy application. To be used along with a scheduled jenkins job.",
+  "main": "deploy.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "codedeploy"
+  ],
+  "author": "chartzoge",
+  "license": "ISC"
+}
